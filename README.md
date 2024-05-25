@@ -4,8 +4,8 @@ Useful resources for IELTS
 
 ## Reading Skills
 
-    1) Intensive Reading: Read word by word.
-    2) Extensive Reading: Know what a sentene is about.
+    1) Intensive Reading: Read word by word and understand the full meaning.
+    2) Extensive Reading: Read briefly and know what a sentene is about.
 
 
 ## Extensive Reading:
