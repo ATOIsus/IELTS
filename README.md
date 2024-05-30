@@ -582,7 +582,7 @@ Prompt:
                 What do you think young people will be influenced by the most in the future?
 
                     
-    Topic 21: Interney
+    Topic 21: Internet
     Questions:
                 How do you think the Internet will change people's buying habits in the future?
                 What are the pros and cons of shopping online?
@@ -656,7 +656,7 @@ Prompt:
                 How do people share good news?
 
 
-    Topic 28: Paremting
+    Topic 28: Parenting
     Questions:
                 For parents, what is important when bringing up their children?
                 Do you think mothers and fathers have different roles to play in bringing up a child?
@@ -675,8 +675,159 @@ Prompt:
                 Why do some people think that national celebrations are a waste of government money? Do you agree or disagree with this view? Why?
 
 
-
-    Topic 30: 
+    Topic 30: Plans 
     Questions:
+                In general, do you think planning is important?
+                Do you think people should make highly detailed plans or just general plans?
+                What types of people like to make plans?
+                Why do you think some people dislike making plans?
+                Let’s move on from planning to career plans. Do you think it's important for a person to have a career plan?
+                How do most people plan their futures in their education and careers?
+                Do you think it's important for young people to get advice from their parents when planning a career?
 
 
+    Topic 31: Products
+    Questions:
+                What kinds of products are mostly imported into your country?
+                In your opinion, why do some people like to buy imported products?
+                Let’s move on to local products. What are some famous local products in your country?
+                Do you think a country should make everything it needs or import some things?
+                What are the disadvantages of a country producing everything it needs?
+                Finally, let’s talk about globalisation. Do you think the globalisation of industries and commerce is a good thing?
+                What are the impacts of globalization on international trade?
+    
+
+    Topic 32: Resturants
+    Questions:
+                Do many people eat in restaurants in your country?
+                Why do some people enjoy eating out?
+                Is it expensive to eat out in your country?
+                Let’s move on from eating in restaurants to cooking at home. Do you like to cook at home?
+                Nowadays, more and more people are unwilling to cook. Why is this happening?
+                What’s the difference between restaurant food and home-cooked food?
+
+
+    Topic 33: Rules
+    Questions:
+                Why do we have rules in society?
+                Do you think it's necessary to set up rules about overworking people?
+                What are some examples of rules that exist in many families?
+                What are some rules that exist in schools or workplaces in your country?
+                Do you think that the students themselves should have a say in what kinds of school rules there are?
+
+
+    Topic 34: School
+    Questions:
+                Is higher education too expensive in your country?
+                Should all students pay for their university education?
+                Can you compare the education your parents had with the education that you received?
+                What changes do you think will happen in the classrooms of the near future?
+                Let’s move on to university education. What advantages do universities bring to society?
+                Which is more important, research or teaching?
+                What makes a good university student?
+
+
+    Topic 35: Science
+    Questions:
+                Do you think science is important?
+                Do you think science can change our society?
+                Which area of science has been the most important in the last one hundred years?
+                Let’s move on to talk about inventions. What do you think have been some of the most important inventions in the past 100 years or so?
+                Why do you think some inventions have not been successful in the marketplace?
+                Do you think it's good that new inventions are appearing so often?
+                Do you think there will be any negative effects resulting from future technology?
+                
+
+
+    Topic 36: Shopping
+    Questions:
+                Is shopping a popular activity in your country?
+                How have shopping habits changed over recent years?
+                To what extent do you think advertising affects the way people shop?
+                Do you think shopping habits are likely to change in the future?
+                Why do some people prefer to purchase brand name products produced abroad?
+                Is service better in large shops or in small shops?
+                What do people do when they get bad service?
+
+
+
+    Topic 37: Sports
+    Questions:
+                What types of sports are popular in your country?
+                Do you think the types of sports that are popular will change in the future?
+                Let’s move on to talk about some positive aspects of sports. In your opinion, what are the benefits of playing a sport?
+                What about cultural aspects? How can sports bring people from different countries closer together?
+                Do you think old people can keep fit by playing sports or exercising?
+                Finally, let’s talk about Olympic Games. How are the Olympic players trained in your country? Do they usually start training when they are born?
+                Why would somebody dislike watching the Olympic Games?
+
+
+    Topic 38: Social Problems
+    Questions:
+                What social problems are there in your country?
+                What about poverty? What can be done to alleviate poverty?
+                Are there many charities in your country?
+                Let’s move on to talk about the overpopulation problem. Why do so many people move to live in cities?
+                What problems does overpopulation cause?
+                Finally, let’s talk about crime. What is the difference between major and minor crime?
+                Do you think all criminals should go to prison?
+
+
+
+    Topic 39: Teacher 
+    Questions:
+                How well-respected are teachers in your society?
+                Do you think teachers get paid enough money in your country?
+                What role should the teacher have in the classroom?
+                In your opinion, what are the most important qualities for a good teacher to have?
+                Let’s move on to teaching aspects. In your opinion, how can a teacher make lessons for children more interesting?
+                Do you think computers will one day replace teachers in the classroom?
+                    
+
+    Topic 40: Transportation
+    Questions:
+                Have the types of transportation people use changed much over the last few decades?
+                How has transportation improved in recent years?
+                Do you think transportation is likely to continue to improve in the future?
+                What is your take on introducing transportation passes?
+                Let’s move on to the transportation system in your country. It is faster to travel by public transportation or by car in your country?
+                What are the impacts of Uber on transportation in your country?
+
+
+    Topic 41: Travel
+    Questions:
+            Why do some people prefer to travel abroad rather than travel in their own country?
+            Do you think traveling to another country can change the way that people think?
+            Do you think it’s safer to travel today than in the past?
+            Let’s move on to tourism. What are some famous tourist spots in your country?
+            What are the positive impacts of tourism in your country?
+            What are the negative impacts of tourism in your country?
+            What can you say about the future of the tourism industry in your country?
+
+
+    Topic 42: TV
+    Questions:
+                Tell me about the types of programmes that are generally on television in your country.
+                Do you think state or private television is better?
+                Let’s move on from TV programmes to television in general. How has TV changed our lives?
+                Do you think TV influences the way we think?
+                Should children be allowed to watch a lot of TV?
+                Are all people on TV famous?
+                    
+
+    Topic 43: Work
+    Questions:
+                Do you think job satisfaction is more important than your salary when choosing a job?
+                What skills do you think are needed to get a good job these days?
+                Do you think that women should be able to do the same jobs as men?
+                What’s the difference between white collar and blue collar jobs?
+                What jobs do you think are most valuable to society?
+
+
+    Topic 44: Vegetables
+    Questions:
+                What vegetables are common in your country?
+                Do people like to grow vegetables in your country?
+                How do people feel when they eat vegetables that they grew on their own?
+                Let’s move on to the topic of organic vegetables. As we know organic fruits and vegetables are more expensive than conventional fruits and vegetables, but they are actually worth the extra cost. Do you think organic fruit deserves a higher price?
+                Do you think the government should encourage farmers to grow more organic vegetables?
