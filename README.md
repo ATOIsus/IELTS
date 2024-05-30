@@ -67,10 +67,12 @@ Prompt:
 
 ## Part 1
 
-    Okay so this is the Part 1 of the Speaking test
-    I will provide you with different topics and their respective questions. 
-    You can ask me any topic in random and make sure that the topics are not repeated. 
-    If all topics are finished, remind me about this.
+    Okay so this is the Part 1 of the Speaking test.
+
+   So, the when I say "Let's get started with Part 1",
+   give me a random but unrepeated topic from the following,
+   if everything is completed, remind me and ask any random topic again
+
 
 
     The topic and questions are:
@@ -366,9 +368,9 @@ Prompt:
 
   # Part 2
 
-              Here I need to speak on a given topic for 2 minutes and need preparation for 
+              Here I need to speak on a given topic for 2 minutes and need preparation for 1 minute.
               So, the when I say "Let's get started with Part 2",
-              give me a random topic from the following with the topic and questions and make sure it is not repeated
+              give me a random and unrepeated topic from the following with the topic and questions
               if everything is completed, remind me and ask any random topic again
 
 
@@ -1116,6 +1118,11 @@ Prompt:
   # Part 3
 
   Part 3 is same as Part 1.
+
+   So, the when I say "Let's get started with Part 3",
+   give me a random but unrepeated topic from the following,
+   if everything is completed, remind me and ask any random topic again
+
   
     Topic 1:  Advertisements
     Questions:
