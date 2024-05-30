@@ -375,6 +375,673 @@ Prompt:
 
 
 
+
+    Topic 1: Advertisements
+    Questions:
+                Describe an advertisement that persuaded you to buy a product.You should say
+                What advertisement it was
+                Was it shown on TV, radio or newspaper
+                What was good about that advertisement
+                Explain why you think that advertisement made the product seem attractive.
+
+                
+    Topic 2:  (Art)
+Talk about a painting you would like to have in your home.You should say:
+what is it
+how you know about it
+how much it would cost you
+and explain why you want to have it in your home.
+
+
+    Topic 3: (Books)
+Talk about a book you are reading now or have read recently. You should say:    
+How and why you got it
+How long you it took you to read it or how long you have been reading it
+What kind of book it is
+And say if you would like to read something else similar or not, and why
+
+
+    Topic 4: (Books)
+Talk about a book you have never read but would like to read. You should mention:
+How well known it is
+Why you would like to read it
+Why you have never read it before
+And say how you think it will compare to other books you have read
+
+
+    Topic 5: (Business)
+Describe a small business you want to start.You should say:
+what business it would be
+when you want to start it
+why you have not you started it yet
+and explain why you want to start this business.
+
+
+    Topic 6: (Change)
+Describe a positive change in your life. You should say:
+what the change was about
+when it happened
+describe details of the change happened
+and describe how it affected you later in life.
+Ielts Speaking 2 Practice 6 (City)
+Describe your favourite city or a city you have visited that you like very much. You should say:
+What its name is and where it is
+when you visited it.
+why you liked it
+And the major attractions in this city are
+
+
+    Topic 7: (Company)
+Describe an organization or a company that you know. Please say
+How big is it?
+Do you find this company to be successful? Why?
+What can you say about the working environment there?
+
+
+    Topic 8: (Decision)
+Describe an important decision you have made. You should say:
+what the decision was
+why you made that choice
+who helped you make the choice
+and explain why the decision was so important.
+
+
+    Topic 9: (Electronic Devices)
+Describe a useful electronic device you would like to own. You should say:
+what it is
+how it would help your life
+if it would be expensive to buy
+and explain why you would like it.
+
+
+    Topic 10:  (Electronic Devices)
+Describe a piece of electronic equipment that you have.You should say:
+what it is
+what you used it for
+how long you have used it
+and describe why it is important to you
+
+
+    Topic 11:  (Electronic Devices)
+Describe a piece of electronic equipment that you find useful.You should say:
+what it is
+how you learned to use it
+how long you have had it
+and explain why you find this piece of electronic equipment useful.
+
+
+    Topic 12: (Environment)
+Describe an environmental problem or event.You should say:
+What it is
+Where is it happening
+What problems it causes
+
+
+    Topic 13:  (Exciting Experience)
+Describe an exciting experience you’ve had. You should say:
+when it was
+where you were
+what it was
+And explain what made this experience especially exciting.
+
+
+    Topic 14:  (Family)
+Talk about the last time your whole family got together. You should mention:
+Where you met
+What you did together
+How long you spent together
+And say if you would like to do the same thing again soon or not, and why
+
+
+    Topic 15:   (Family)
+Describe a family member that you get on well with. You should mention:
+What their personality is like
+What things they like doing
+If they have any strong dislikes
+And say why you think you have a good relationship
+
+
+    Topic 16: (Family)
+Describe one of your relatives. You should say:
+What that person looks like
+What that person’s character is like
+What they are doing at the moment
+And say which other relative of yours they are most similar to
+
+
+    Topic 17:  (Food)
+Describe a famous food from your hometown or country. You should say:
+What it looks like
+What it tastes like
+When and how it is usually eaten
+And say why you think it is famous
+
+
+    Topic 18:  (Friends)
+Describe a friend who has played an important part in your life. You should say:   
+How you met this person
+How long you have known him or her
+The kind of things you do or have done together
+And explain why this person has been important in your life
+
+
+    Topic 19:  (Friends)
+Describe a friend you had in primary school. You should say:
+What that person was like
+How long you were friends for
+What things you did together
+And say whether you are still in contact with that person or not, and why
+
+
+    Topic 20: (Clothes)
+Describe your favorite piece of clothing. You should say:
+Where you got it
+Do you often wear it
+When you wear it
+And explain why it is your favorite piece of clothing.
+
+
+    Topic 21: (Furniture)
+Describe a piece of furniture that you own.You should say:
+what it is
+where you bought it
+how you use it
+and explain why you like it.
+
+
+    Topic 22: (Gifts)
+Describe a present that you gave someone. You should say:
+Who you gave it to
+Why you decided to give them a present
+Why you chose that present
+And say how that present compares to other presents you have given that person or other people
+
+
+    Topic 23: (Health)
+Describe your (or your friend's) experience with an illness or injury. You should say:
+What it was
+When it happened
+How you (or your friend) handled it
+and say how do you feel about it now.
+
+
+    Topic 24: (Health)
+Describe something healthy you enjoy doing.You should say:
+What you do
+Where you do it
+Who you do it with
+and explain why you think doing this is healthy.
+
+
+    Topic 25:  (Help)
+Describe a time when you helped someone. You should say
+When you helped
+How you helped
+How you felt after helping
+
+
+    Topic 26:  (History)
+Describe a historical place that you have visited. You should say:
+what kind of place it is
+where it is located
+what the historical significance of the place is
+and describe your experience of the place.
+
+
+    Topic 27:  (Holiday)
+Talk about an activity you like doing when you are on holiday. You should say:
+Where you usually do it
+Who you do it with
+Why you enjoy it
+And say whether you also enjoyed doing that when you were a child or not, and why
+
+
+    Topic 28: (Holiday)
+Talk about somewhere you went on holiday. You should say:
+How you got there
+What activities you did there
+Who you went with
+And say if you would recommend that holiday to a friend or not, and why
+
+
+    Topic 29: (Holiday)
+Talk about your dream holiday. You should say:
+Where you would like to go
+What kind of accommodations you would like
+What activities you would like to do
+And say if you ever think you will go on a holiday like that or not, and why
+
+
+    Topic 30: (Holiday)
+Talk about your plans for your next long vacation. You should say:
+Where you want to go
+Who you want to go there with
+What you want to do when you get there
+And say how likely you are to do what you have planned, and why
+
+
+    Topic 31: (Influence)
+Describe someone who has had an important influence in your life. You should say:
+Who the person is
+How long you have known him or her
+What qualities this person has
+and explain why this person has had such an influence on you.
+
+
+    Topic 32: (Internet)
+Describe a website that you often use. You should say:
+what type of website it is
+how you found out about it
+what it allows you to do, and why you find it useful.
+
+
+    Topic 33:  (Language)
+Talk about one method of learning a foreign language you have used. You should say:
+What you did
+How long you used this method for
+How it compares to other methods of learning a language
+And say if you will use that same method in the future or not, and why
+
+
+    Topic 34:  (Language)
+Talk about an English language book you have read or used. You should say:       
+Why you bought or used that book
+What you learned from using it
+If it was difficult or easy to use
+And say if you would use a similar book again or not, and why
+
+
+    Topic 35: (Language)
+Talk about a language test you have taken. You should say:
+Where you took the test
+How long it took
+What skills and language knowledge you were tested on
+And say if you think the test was a good indicator of your language level or not, and why
+
+
+    Topic 36:  (Late)
+Describe a time you were late for something. You should say:
+when it was
+why you were late
+how people reacted to you being late
+and explain what happened because you were late.
+
+
+    Topic 37:  (Hobbies)
+Talk about a leisure activity you did when you were a child. You should say:
+How you first became interested in it
+How long you did it or have been doing it for
+Why you enjoyed doing it
+And say if you have become more or less interested in that hobby since you were a child, and why
+
+
+    Topic 38: (Machine)
+Describe the most useful household appliance that you have. You should say:
+What it is
+How it works
+How life would be without it
+And explain why it is so important to you to you.
+
+
+    Topic 39: (Memory)
+Describe an occasion when you forgot something important.You should say:
+what you forgot
+how important it was
+Some possible reasons why you forgot it
+
+
+    Topic 40: (Money)
+Describe what you would do if you received a very large amount of money. You should say:
+who you would share it with
+what you would buy
+what else you would do
+and explain how you would feel about getting so much money.
+
+
+    Topic 41:  (Music)
+Talk about a musical instrument you would like to be able to play but have never tried. You should say:
+What the instrument looks like
+What it sounds like
+What kinds of people it is popular with
+And say if you think you will ever try to play that instrument or not, and why
+
+
+    Topic 42:  (News)
+Describe an interesting piece of news that you have recently read about or heard aboutYou should say:
+what the story was
+who was involved in the story
+where you read or heard about this story
+and explain why this news story was interesting to you.
+
+
+    Topic 43: (Parenting)
+Describe people that you know and believe to be very good parents. You should say:
+Who they are
+How you met them
+Why you think they are good parents
+And explain what it requires to be good parents.
+
+
+
+    Topic 44: (Party)
+Describe the best party you have been to. You should say:
+whose party it was
+who was there
+what happened at the party
+and explain what made it so enjoyable.
+
+
+    Topic 45: (Party)
+Talk about a birthday party you can remember well. You should say:
+How you celebrated
+Who you were with
+Why you remember that day
+And say how it was different from other birthdays you have had before or since
+
+
+    Topic 46: (Party)
+Describe a typical festival or celebration in your country. You should say:
+When it usually happens
+What it is celebrating
+What people do
+And say if that is your favourite celebration or not, and why
+
+
+    Topic 47:  (Party)
+Describe your favorite festival or celebration. You should say:
+What time of year it is
+Why you like it
+What you usually do
+And say how that festival or celebration compares to others in your country or abroad
+
+
+    Topic 48: (Plans)
+Talk about one thing you are going to do next weekend. You should mention:
+Where you are going to do it
+Who you are going to do it with
+Any equipment you need to do it
+And say whether you are looking forward to it or not, and why
+
+
+    Topic 49:  (Plans)
+Talk about one thing you are planning to do after you pass the IELTS test. You should say:
+When you think you will do it
+Why you want to do it
+How long you have had that plan
+And say whether there are any other options for what you could do which might be just as good
+
+
+    Topic 50: (Plans)
+Talk about a goal or ambition you have. You should say:
+When and why you first discovered you had that goal or ambition
+What you need to do to make it come true
+What your next step needs to be
+And say if you think you will achieve that goal or ambition or not, and why
+
+
+    Topic 51: (Products)
+Describe something which is produced in your country, such as a food, a handicraft, or a car.You should say:
+what it is
+what it is used for
+how it is made or produced
+and explain why your country produces this thing.
+
+
+    Topic 52: (Restaurants)
+Describe a restaurant or a cafe you often go to. You should say:
+Where it is
+What it looks like
+What kind of services are provided
+What kind of food you like there/ What kind of food is famous?
+And say why you like it
+
+
+    Topic 53:  (Rules)
+Describe a traffic rule or law you know about. You should say:
+what it is
+how you know about it
+if you follow this rule or law
+and explain why this rule is important.
+
+
+    Topic 54: (Rules)
+Describe a rule you had to obey when you were in school. You should say:
+what the rule was
+if you agreed with the rule
+why the rule existed
+and what happened if students broke the rule.
+
+
+    Topic 55:  (School)
+Describe a school that you are attending or attended in the past. You should say:
+What it looks like from the outside
+What it looks like inside
+What facilities it has
+And say if you think it is a good school building or not, and why
+
+
+    Topic 56:  (School)
+Talk about a subject you would like to study in the future. You should say:
+Why you want to study that subject
+What things about that subject you find particularly interesting
+Where it is possible to study that subject
+And say if you think you will start studying it soon or not, and why
+
+
+    Topic 57:  (Science)
+Describe an area of science that you are interested in. You should say
+What it is
+What you can learn from it
+When you started become interested in it
+And explain how this area of science helps you
+
+
+    Topic 58:  (Science)
+Describe a scientific subject that you learned about in high school. You should say:
+what subject it was
+who taught you this subject
+what you learned from it
+and explain how this subject helped you in your life.
+
+
+    Topic 59:  (Shopping)
+Describe a shopping street in your hometown. You should say:
+What things you can buy there
+What the most popular shops are
+Any changes there have been over the years
+And say if you think shopping there will become more or less popular in the future, and why
+
+
+    Topic 60: (Shopping)
+Describe a shop in your hometown or the place you are living now. You should say:
+Where it is
+What it sells
+What the advantages of shopping there are
+And, if you think it will be popular or not in the future, and why
+
+
+    Topic 61: (Social Problems)
+Describe a problem in your city. You should say:
+what it is
+how serious it is
+what causes this problem
+and say what can be done to solve or reduce the effects of this problem.
+
+
+    Topic 62:  (Sports)
+Talk about a sport you like doing or watching. You should say:
+How you first became interested in it
+Why you are interested in it
+What equipment and skills are needed for it
+And say if you think it is an easy sport to do or not, and why
+
+
+    Topic 63: (Sports)
+Talk about a sport many people enjoy but you have never tried. You should say:
+What equipment is needed for it
+What some of the rules are
+What kinds of people this sport is popular with
+And say if you think you will do this sport in the near future or not, and why
+
+
+    Topic 64: (Sports)
+Talk about a sport that interests you but you have never tried. You should say:
+Where it is usually played
+What kinds of people usually play it
+Why it interests you
+And say if you think you will ever do this sport or not, and why
+
+
+    Topic 65:  (Teacher)
+Describe the best teacher you have had. You should say:
+what subject the teacher taught
+when you studied with him or her
+what made that person a good teacher
+and explain why you think this person was the best teacher you’ve had.
+
+
+    Topic 66: (Things)
+Describe something you own which is very important to you.You should say:
+where you got it
+how long you have had it
+what you use it to do
+And explain why it is important to you.
+
+
+    Topic 67:  (Traditional Products)
+Talk about a traditional product which is very popular in your country. You should say
+What the product is
+How it is made
+Why it is popular
+
+
+    Topic 68: (Transportation)
+Describe the transportation system in your hometown or the place you are living now. You should say
+What kind of transportation there is
+Which kind of transportation most people use
+What the good points and bad points of the transportation system are
+And say if you think most people are happy with the transportation system or not, and why
+
+
+    Topic 69: (Transportation)
+Talk about one means of transportation that you often use. You should mention:
+Where you usually go by that means of transportation
+What the advantages of that method of travelling are
+What the disadvantages are
+And say if you think you will use that means of transport more or less often in the future, and why
+
+
+    Topic 70: (Travel)
+Describe a journey you have been on. You should say
+Where you went
+What kind or kinds of transport you used
+How long the journey took
+And say whether you think it was easy to take this journey or not, and why
+
+
+    Topic 71: (Travel)
+Talk about something tourists like to do in your country. You should say:
+How well known the activity is
+Why it is popular
+What kinds of people like to do it
+And say if you think it will become more popular or less popular in the future and why
+
+
+    Topic 72: (Travel)
+Talk about a day trip you have been on. You should say:
+Where you went
+How you travelled
+Why you chose to go to that place
+And say whether you would like to go back to the same place again or not, and why
+
+
+    Topic 73:  (Travel)
+Talk about a part of your country you have never been to but would like to visit. You should say:
+Why you have never been there before
+If or when you think you might go
+Why you would like to go
+And say how you first became interested in going to that place
+
+
+    Topic 74: (Travel)
+Talk about a foreign country you have never been to but would like to visit. You should say:
+Why you have never been there before
+If or when you think you might go
+Why you would like to go
+And say how you first became interested in going to that place
+
+
+    Topic 75: (TV)
+Describe a TV programme that you often watch. You should say:
+What kind of programme it is
+Why you watch it
+When and why you first started watching it
+And say if you think that programme is better than other TV programmes that are on at the same time or not, and why
+
+
+    Topic 76: (Vegetables)
+Describe a plant, vegetable or crop that you are familiar with. You should say:
+Where it grows
+Why is it important
+What you like or dislike about it
+And explain why it is important for your country.
+
+
+    Topic 77:  (Work)
+Describe your dream job.You should say:
+What kind of things you would do in that job
+What the working conditions would be like
+What kind of workplace you would work in
+And say if you think you will be able to get a job like that or not, and why
+
+
+    Topic 78:  (Work)
+Describe your dream workplace.You should say:
+What it would look like           
+What facilities it would have
+Where it would be
+And say if you think you will ever work in a place like that or not, and why
+
+
+    Topic 79: (Work)
+Talk about a job you have done or know about.You should say:
+What people do in that job
+What kind of place they work in
+What clothes and equipment they need
+And say if you think it is a satisfying job to do or not, and why
+
+
+    Topic 80: (Work)
+Talk about a job someone in your family does.You should say:
+How long that person has been doing that job
+What the good things about that job are
+What the difficulties of doing that job are
+And say if you think that person enjoys their job or not, and why
+
+
+    Topic 81: (Work)
+Describe a workplace you have worked in or know about.You should say:
+What the building looks like
+What is inside the building
+What things there are to do in the local area
+And say if you think it is a good place to work or not, and why
+
+
+    Topic 82: (Work)
+Describe a job you would like to do in the future.You should say:
+How and when you first became interested in that job
+What people in that job have to do everyday
+What qualifications and experience you need in order to get that job
+And say if you think you will be able to get that job or not, and why
+
+
+
+
+
+
+
+
+
   # Part 3
 
   Part 3 is same as Part 1.
