@@ -10,7 +10,7 @@ Useful resources for IELTS
 
 ## Extensive Reading:
 
-    1) Skimming: Briefly reaing certain sections (first, middle and last) of a paragraph to get a general idea.
+    1) Skimming: Briefly reading certain sections (first, middle and last) of a paragraph to get a general idea.
     2) Scanning: Search for keywords/ synonym of keywords in the passage.
     3) Speed Reading: Read sentences not word by word but as groups of word.
 
@@ -32,3 +32,9 @@ Useful resources for IELTS
      https://www.worldhistory.org/article/229/the-white-horse-of-uffington/
 - IELTS Passage
     https://www.ielts-mentor.com/reading-sample/academic-reading/3660-the-white-horse-of-uffington
+
+
+
+  # Speaking
+Tutorial: https://www.youtube.com/watch?v=RZ1g8NJGLME
+  
