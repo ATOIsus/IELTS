@@ -60,6 +60,13 @@ Prompt:
 
 ## Part 1
 
+    I will provide you with different topics and their respective questions. 
+    You can ask me any topic in random and make sure that the topics are not repeated. 
+    If all topics are finished, remind me about this.
+
+
+    The topic and questions are:
+    
     
     Topic 1: Accommodation & Hometown
     Questions:
