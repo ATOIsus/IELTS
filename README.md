@@ -205,7 +205,7 @@ Prompt:
                 How do celebrities influence their fans in your country?
 
     
-    Topic 11: (Movies & Music)
+    Topic 11: Movies & Music
     Questions:
                 How often do you go to the cinema?
                 Are cinema tickets expensive in your country?
