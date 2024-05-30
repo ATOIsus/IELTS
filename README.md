@@ -366,10 +366,10 @@ Prompt:
 
   # Part 2
 
-  Here I need to speak on a given topic for 2 minutes and need preparation for 
-  So, the when I say "Let's get started with Part 2",
-  give me a random topic from the following with the topic and questions and make sure it is not repeated
-  if everything is completed, remind me and ask any random topic again
+              Here I need to speak on a given topic for 2 minutes and need preparation for 
+              So, the when I say "Let's get started with Part 2",
+              give me a random topic from the following with the topic and questions and make sure it is not repeated
+              if everything is completed, remind me and ask any random topic again
 
 
     Topic 1: Advertisements
