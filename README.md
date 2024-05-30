@@ -225,4 +225,132 @@ Prompt:
                 In the future, do you think more people than today will read magazines, or fewer people?
                 Do you think newspapers will be very important to you in the future?
     
-                
+
+    Topic 13: Music & Travel
+    Questions:
+                Where was the last place you visited on holiday?
+                Would you like to go back there again?
+                What kind of tourist destinations do you usually prefer?
+                Has a foreign visitor ever stayed at your home?
+                What’s the best way to save money while traveling?
+                How much time do you spend listening to music every day?
+                Are your music tastes varied?
+                What is your favorite song?
+                Do you like to sing along to your favorite songs?
+                Are you learning to play a musical instrument at the moment?
+
+  
+    Topic 14:  Internet & Major
+    Questions:
+                How important is the Internet to you?
+                Do you use the Internet more for work or in your free time?
+                Do you think you use the Internet too much?
+                How will the Internet develop in the future?
+                Are there any negative things about the Internet?
+                What is your major? Or what was your major?
+                Did you or do you like it?
+                Is it a popular major at your university?
+                If you could change to another major, what would it be?
+                Would you change it if you had the chance?
+
+    
+    Topic 15: Internet & Outdoor Activities
+    Questions:
+                Do you like outdoor activities?
+                What outdoor sports do you like?
+                How much time do you spend outdoors every week?
+                What types of outdoor activities are popular in your country?
+                How often do you use the Internet?
+                Do you think you use the Internet too much?
+                What are your favourite websites?
+                What are the positive and negative things about the Internet?
+
+    
+    Topic 16:  Indoor Activities & Transportation
+    Questions:
+                Do you prefer public transportation or private transportation?
+                What’s the most popular means of transportation in your hometown?
+                Is it easy to catch a bus in your country?
+                Is driving to work popular in your country?
+                What do you think will become the most popular means of transportation in your country?
+                Do you like indoor activities?
+                What indoor activities do you like?
+                How much time do you spend indoors every week?
+                What types of indoor activities are popular in your country?
+
+    
+    Topic 17: Major & Sports
+    Questions:
+                Do you work or study?
+                What is your major? Or what was your major?
+                Why did you choose that major?
+                What is the most difficult part of studying that subject?
+                Do you plan to use the subject you are studying in the future?
+                Do you play any sports?
+                Do you watch sports on TV?
+                What is the most popular sport in your country?
+                How do people in your country stay fit?
+                Is it important for children to play sports?
+
+    
+    Topic 18:  Gift & Noise
+    Questions:
+                Do you mind noises?
+                What types of noise do you come across in your daily life?
+                Are there any sounds that you like?
+                Where can you hear loud noises?
+                Do you think there’s too much noise in modem society?
+                Are cities becoming noisier?
+                When do you send gifts?
+                When was the last time you received a gift?
+                Have you received a gift you didn’t like?
+                How do you feel when you receive a gift?
+                Do people in your country send gifts to show their generosity?
+
+    
+    Topic 19: Patience & Politeness
+    Questions:
+                What do you think patience is?
+                Do you think patience is important?
+                Do you think you are an patient person?
+                Have you ever lost your patience?
+                Are you a polite person?
+                Who taught you to be polite?
+                Is it important to be polite?
+                What do you do if others are not polite to you?
+
+    
+    Topic 20: Clothes & Photos
+    Questions:
+                What is your favourite item of clothing?
+                Are there any traditional clothes in your country?
+                Where do you usually purchase your clothes?
+                Have you ever bought clothes online?
+                Who do you usually take photos of?
+                How do you keep your photos?
+                Do you keep your photographs on your computer?
+                Have you framed any of your photos?
+                Do you prefer to send postcards to people or to send photos that you took yourself?
+
+
+    Topic 21: Art & Photography
+    Questions:
+                Do you like art?
+                Do you think art classes are necessary?
+                How do you think art classes affect children’s development?
+                What kind of paintings do people in your country like?
+                What benefits can you get from painting as a hobby?
+                Do you like to take photographs?
+                Do you prefer to take photos yourself or to have other people take photos?
+                How often do you take photographs?
+                Do you prefer to take pictures of people or of scenery?
+                Are there any photos on the walls of your home?
+
+
+
+
+  # Part 2
+  
+    Topic 13: 
+    Questions:
+              
