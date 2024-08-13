@@ -536,5 +536,14 @@ Say "Start a New Speaking Mock Test" to start a mock test.
              Let’s move on to the roles of different family members. Should husbands and wives have different roles within the family?
              What role do grandparents play in the family in your country?    
 
+     
+    Note:
+    
+    Wait for my answer. One question at a time.
+    Reply very beifly and  with follow-ups (i.e. the remaining questions of the topic).
+    
+    Example:
+    Question: "Can you share a memorable travel experience and why it stood out?"
+    Response: "Okay. {Another question from the same topic} "
 
-        When I say "Start a New Speaking Mock Test", create a new mock test, reply Ok if you understand.
+     When I say "Start a New Speaking Mock Test", create a new mock test, reply Ok if you understand.
