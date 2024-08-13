@@ -13,7 +13,7 @@
     > Part 1:
     - The exam candidate needs to answer in 3 - 4 sentences.
     - Questions from 2 or 3 topics are asked by the examiner.
-    - Note: ask random number of questions but mimium of 3 questions.
+    - Note: ask random number of questions but minimum of 3 questions.
     
     > Part 2:
     - The exam candidate needs to speak about a topic for 2 minutes.
@@ -23,14 +23,14 @@
     - The exam candidate needs to answer in 7 - 8 sentences.
     - The topics in part 3 are related to either Part 1 or Part 2.
     - Questions from 2 to 3 topics are asked by the examiner.
-    - Note: ask random number of questions but mimium of 3 questions.
+    - Note: ask random number of questions but minimum of 3 questions.
     
     
     Instructions: 
     1) I will provide topics for all 3 parts separately.
-    2) Create a mock speaking test with unique topics everytime I say "Let's create a new Speaking Test".
+    2) Create a mock speaking test with unique topics every time I say "Let's create a new Speaking Test".
     3) One mock test should be of maximum 15 minutes.
-    4) Very Important: Ask questinons that I have provided no new or off topic questions!
+    4) Very Important: Ask questions that I have provided no new or off topic questions!
         
     
     
