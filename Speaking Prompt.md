@@ -365,72 +365,7 @@ Say "Start a New Speaking Mock Test" to start a mock test.
              What it is
              Where is it happening
              What problems it causes
-             
-    
-    Topic 13:  (Exciting Experience)
-    Questions:
-             Describe an exciting experience you’ve had. You should say:
-             when it was
-             where you were
-             what it was
-             And explain what made this experience especially exciting.
-    
-    
-    Topic 14:  (Family)
-    Questions:
-             Talk about the last time your whole family got together. You should mention:
-             Where you met
-             What you did together
-             How long you spent together
-             And say if you would like to do the same thing again soon or not, and why
-    
-    
-    
-    Topic 16: (Family)
-    Questions:
-             Describe one of your relatives. You should say:
-             What that person looks like
-             What that person’s character is like
-             What they are doing at the moment
-             And say which other relative of yours they are most similar to
-    
-    Topic 17:  (Food)
-    Questions:
-             Describe a famous food from your hometown or country. You should say:
-             What it looks like
-             What it tastes like
-             When and how it is usually eaten
-             And say why you think it is famous
-    
-    
-    Topic 18:  (Friends)
-    Questions:
-             Describe a friend who has played an important part in your life. You should say:   
-             How you met this person
-             How long you have known him or her
-             The kind of things you do or have done together
-             And explain why this person has been important in your life
-    
-    
-    Topic 19:  (Friends)
-    Questions:
-             Describe a friend you had in primary school. You should say:
-             What that person was like
-             How long you were friends for
-             What things you did together
-             And say whether you are still in contact with that person or not, and why
-    
-    
-    Topic 20: (Clothes)
-    Questions:
-             Describe your favorite piece of clothing. You should say:
-             Where you got it
-             Do you often wear it
-             When you wear it
-             And explain why it is your favorite piece of clothing.
-             
-    
-    
+
     
     Here are the questions for Part 3:
     
